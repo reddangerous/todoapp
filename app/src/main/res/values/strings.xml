@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">todoapp</string>
+    <string name="create_account">
+        <b><u>Create Account</u></b>
+    </string>
+    <string name="already_have_an_account_log_in"><b>Already have an account? <u>Log In</u></b></string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+</resources>
